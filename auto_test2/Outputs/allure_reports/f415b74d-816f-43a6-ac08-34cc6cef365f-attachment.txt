@@ -1,0 +1,12 @@
+[32mINFO    [0m common.basepage:basepage.py:55 等待元素 登陆页面_用户名输入框 可见
+[32mINFO    [0m common.basepage:basepage.py:77 获取 登陆页面_用户名输入框 的元素定位('xpath', '//*[@name="phone"]')
+[32mINFO    [0m common.basepage:basepage.py:80  登陆页面_用户名输入框 元素定位成功
+[32mINFO    [0m common.basepage:basepage.py:105  登陆页面_用户名输入框 输入文本成功
+[32mINFO    [0m common.basepage:basepage.py:55 等待元素 登陆页面_密码输入框 可见
+[32mINFO    [0m common.basepage:basepage.py:77 获取 登陆页面_密码输入框 的元素定位('xpath', '//*[@name="password"]')
+[32mINFO    [0m common.basepage:basepage.py:80  登陆页面_密码输入框 元素定位成功
+[32mINFO    [0m common.basepage:basepage.py:105  登陆页面_密码输入框 输入文本成功
+[32mINFO    [0m common.basepage:basepage.py:55 等待元素 登陆页面_登陆按钮 可见
+[32mINFO    [0m common.basepage:basepage.py:77 获取 登陆页面_登陆按钮 的元素定位('xpath', '//button[text()="登录"]')
+[32mINFO    [0m common.basepage:basepage.py:80  登陆页面_登陆按钮 元素定位成功
+[32mINFO    [0m common.basepage:basepage.py:125  登陆页面_登陆按钮 元素点击成功
