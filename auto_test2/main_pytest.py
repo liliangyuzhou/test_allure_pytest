@@ -6,4 +6,6 @@
 # @Desc  :  test
 import pytest
 
-pytest.main(["-s","-v","-m","smoke","--alluredir=/Outputs/allure_reports"])
+# pytest.main(["-s","-v","-m","smoke","--alluredir=/Outputs/allure_reports"])
+# 添加重运行机制
+pytest.main(["-s","-v","-m","smoke","--reruns","2","--reruns-delay","5","--alluredir=Outputs//allure_reports"])
